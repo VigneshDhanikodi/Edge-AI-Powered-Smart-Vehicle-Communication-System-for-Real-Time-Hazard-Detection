@@ -10,9 +10,9 @@
 
 ---
 
-> [cite_start]**Research Report:** *Edge-AI Powered Smart Vehicle Communication System for Real-Time Hazard Detection* [cite: 1, 2]
+> **Research Report:** *Edge-AI Powered Smart Vehicle Communication System for Real-Time Hazard Detection* [cite: 1, 2]
 >
-> [cite_start]A decentralized V2V framework that classifies **real-time road hazards** into distinct categories using YOLOv11n — deployed on **Jetson Nano Orin** boards with a hybrid communication stack (WebSocket/MQTT/HTTP) ensuring zero reliance on cloud infrastructure[cite: 67, 70, 71, 73].
+> A decentralized V2V framework that classifies **real-time road hazards** into distinct categories using YOLOv11n — deployed on **Jetson Nano Orin** boards with a hybrid communication stack (WebSocket/MQTT/HTTP) ensuring zero reliance on cloud infrastructure[cite: 67, 70, 71, 73].
 
 </div>
 
