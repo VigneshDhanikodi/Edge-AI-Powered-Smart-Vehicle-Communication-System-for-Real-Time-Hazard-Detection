@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Model Weights & Compiled Engines
+models/*.pt
+models/*.onnx
+models/*.engine
+models/*.trt
+
+# Datasets and Media
+data/*
+!data/.keep
+*.jpg
+*.png
+*.mp4
+*.avi
+
+# Logs and Evaluation Outputs
+results/*.json
+results/*.csv
+figures/*.png
+runs/
+
+# Jetson/CUDA specific
+*.nvprof
+*.nsys-rep
